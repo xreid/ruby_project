@@ -1,4 +1,4 @@
-# Exercises from The Odin Project focusing on TDD
+## Exercises from The Odin Project focusing on TDD
 
 [Found Here](http://www.theodinproject.com/web-development-101/ruby)
 
